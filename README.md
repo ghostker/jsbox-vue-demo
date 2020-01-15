@@ -9,4 +9,4 @@
 # Instructions
 
 - Install [JSBox](https://apps.apple.com/us/app/id1312014438) 2.0
-- Run `npm install` to resolve dependencies
+- Run `npm install` to resolve dependencies (it takes some time, you'd better do it on desktop)
